@@ -2,11 +2,11 @@
 
 Build a terminal program:
 
-
+'''
 ========================
      NUMBER TOOL
 ========================
-
+'''
 1. Check prime
 2. Factorial
 3. Fibonacci
