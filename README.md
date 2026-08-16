@@ -2,7 +2,7 @@
 
 Build a terminal program:
 
-'''
+
 ========================
      NUMBER TOOL
 ========================
@@ -16,7 +16,8 @@ Build a terminal program:
 7. Exit
 
 Choice:
-'''
+
+
 ========== STATISTICS ==========
 
 Count:       5
